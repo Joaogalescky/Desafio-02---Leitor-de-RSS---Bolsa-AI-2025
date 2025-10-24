@@ -129,3 +129,11 @@ Requisitos necessários para utilização:
 `localhost:3000\docs` via Swagger
 `localhost:3000\redocs` via Redoc
 ---
+
+## Autores
+
+- [Aniel Melo](https://github.com/anielmelo)
+- [Maria Eduarda da Nóbrega](https://github.com/eduardanb)
+- [Vinícius França de Oliveira Sousa](https://github.com/marditin)
+- [João Vitor Campõe Galescky](https://github.com/Joaogalescky) 
+- [Gabriel Medeiros Nóbrega](https://github.com/Prozis-dev)
