@@ -1,0 +1,1 @@
+# Desafio02---Leitor-de-RSS---Bolsa-AI-2025
